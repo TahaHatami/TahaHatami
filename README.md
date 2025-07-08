@@ -21,5 +21,3 @@
 ### 🚀 Live Hacking Terminal Preview  
 
 https://abartarah.ir/github/
-
----
