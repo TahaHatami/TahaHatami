@@ -11,7 +11,7 @@
 ---
 
 ### 📫 Get in touch  
-[![Email](https://img.shields.io/badge/Email-%40your.email-blue?style=flat&logo=gmail)](mailto:your.email@example.com)  
+[![Email](https://img.shields.io/badge/Email-%40your.email-blue?style=flat&logo=gmail)](mailto:info[at]Abartarah[dat]ir)  
 [![GitHub](https://img.shields.io/badge/GitHub-@TahaHatami-black?style=flat&logo=github)](https://github.com/TahaHatami)
 
 ---
