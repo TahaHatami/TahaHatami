@@ -20,12 +20,14 @@
 
 ### 📊 GitHub Stats & Languages  
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=radical&card_width=320) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&hide_border=true&theme=radical&card_width=320) |  
-|---|---|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=dark-purple&card_width=320) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&hide_border=true&theme=dark-purple&card_width=320) |  
 
 ---
 
 ⭐ If you find my work helpful, feel free to ⭐️ the repos!
+
+---
+
 <iframe src="https://abartarah.ir/github/" width="100%" height="600" style="border:none;"></iframe>
 
 ---
