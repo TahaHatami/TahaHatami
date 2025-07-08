@@ -20,7 +20,8 @@
 
 ### 📊 GitHub Stats & Languages  
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=dark-purple&card_width=320) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&hide_border=true&theme=dark-purple&card_width=320) |  
+| ![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=dark-green&card_width=320) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&hide_border=true&theme=dark-green&card_width=320) |
+
 
 ---
 
