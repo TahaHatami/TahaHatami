@@ -28,13 +28,10 @@
 
 ---
 
-<iframe src="https://abartarah.ir/github/" width="100%" height="600" style="border:none;"></iframe>
-
----
 
 ### 🚀 Live Hacking Terminal Preview  
 
-[![Terminal Preview](https://abartarah.ir/github/terminal-preview.gif)](https://abartarah.ir/github/)
+https://abartarah.ir/github/
 
 ---
 
