@@ -14,10 +14,8 @@
 
 ### 📊 GitHub Stats & Languages  
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=blueberry&card_width=320) | 
+| ![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=blueberry&card_width=320) | ### 🚀 Live Hacking Terminal Preview  https://abartarah.ir/github/
+
 
 ---
 
-### 🚀 Live Hacking Terminal Preview  
-
-https://abartarah.ir/github/
