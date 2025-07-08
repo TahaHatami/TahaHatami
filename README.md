@@ -17,9 +17,10 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&hide_border=true&theme=tokyonight)
+### 📊 GitHub Stats & Languages  
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&hide_border=true&theme=tokyonight) |  
+|---|---|
 
 ---
 
