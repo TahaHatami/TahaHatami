@@ -23,5 +23,3 @@
 https://abartarah.ir/github/
 
 ---
-
-**Click the image to open the live interactive terminal page!**
