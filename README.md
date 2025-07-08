@@ -1,39 +1,25 @@
-# سلام! 👋  
-من محمد طاها حاتمی قصره، یک توسعه‌دهنده ۱۶ ساله علاقه‌مند به امنیت سایبری و برنامه‌نویسی.
+# Hey there! 👋 I'm Mohammad Taha Hatami
+
+🚀 **16-year-old developer passionate about web security & Python.**
 
 ---
 
-## 🚀 درباره من  
-- توسعه‌دهنده پایتون و ابزارهای امنیت وب  
-- متخصص در تست نفوذ و آسیب‌پذیری‌های XSS  
-- عاشق یادگیری تکنولوژی‌های جدید و کمک به جامعه امنیت
+### 🔥 What I do  
+- Build tools for **XSS testing** focusing on **SVG payloads**  
+- Explore **penetration testing** and **bug bounty hunting**
 
 ---
 
-## 🔧 مهارت‌ها  
-Python | Flask | Web Security | XSS | SVG | Git | GitHub | Bug Bounty | Penetration Testing
+### 📫 Get in touch  
+[![Email](https://img.shields.io/badge/Email-%40your.email-blue?style=flat&logo=gmail)](mailto:your.email@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-@TahaHatami-black?style=flat&logo=github)](https://github.com/TahaHatami)
 
 ---
 
-## 📫 راه‌های ارتباط  
-[ایمیل](mailto:youremail@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)
+### 📊 GitHub Stats  
+![TahaHatami's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&theme=radical)
 
 ---
 
-## 📊 آمار گیت‌هاب  
-![TahaHatami's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&theme=radical)
-
----
-
-## 📌 پروژه‌های برجسته  
-- [svg-xss-exploiter](https://github.com/TahaHatami/svg-xss-exploiter) — ابزار تست نفوذ XSS در فایل‌های SVG  
-- پروژه‌های بیشتر در صفحه [Repositories](https://github.com/TahaHatami?tab=repositories)
-
----
-
-### ⚡ علایق من  
-امنیت سایبری، تست نفوذ، توسعه نرم‌افزار، یادگیری مداوم و جامعه منبع باز.
-
----
-
-⭐ اگر این صفحه را دوست داری، لطفا ستاره بده!  
+⭐️ If you like my projects, consider giving a star!  
