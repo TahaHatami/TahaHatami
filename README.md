@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="/Hacker.png" alt="TahaHatami Hacker" width="150" />
-</p>
-
-# Hey 👋, I'm Mohammad Taha Hatami
+# Hey 👋, I'm Mohammad Taha Hatami <p align="center"> <img src="/Hacker.png" alt="TahaHatami Hacker" width="150" /> </p>
 
 🚀 16 y/o developer | Passionate about **Web Security** & **Python**
 
