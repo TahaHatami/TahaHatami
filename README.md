@@ -29,5 +29,12 @@
 
 ---
 
-### 🚀 Check my live GitHub stats page:  
+### 🚀 Check my live Hacking Terminal page:  
+
 [https://abartarah.ir/github/](https://abartarah.ir/github/)
+
+---
+
+### 🎬 Preview of my Terminal  
+
+![My Hacking Terminal Preview](https://your-image-or-gif-link.com/terminal-preview.gif)
