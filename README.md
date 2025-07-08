@@ -29,12 +29,10 @@
 
 ---
 
-### 🚀 Check my live Hacking Terminal page:  
+### 🚀 Live Hacking Terminal Preview  
 
-[https://abartarah.ir/github/](https://abartarah.ir/github/)
+[![Terminal Preview](https://abartarah.ir/github/terminal-preview.gif)](https://abartarah.ir/github/)
 
 ---
 
-### 🎬 Preview of my Terminal  
-
-![My Hacking Terminal Preview](https://your-image-or-gif-link.com/terminal-preview.gif)
+**Click the image to open the live interactive terminal page!**
