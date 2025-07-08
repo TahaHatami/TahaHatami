@@ -1,25 +1,26 @@
-# Hey there! 👋 I'm Mohammad Taha Hatami
+# Hey 👋, I'm Mohammad Taha Hatami
 
-🚀 **16-year-old developer passionate about web security & Python.**
-
----
-
-### 🔥 What I do  
-- Build tools for **XSS testing** focusing on **SVG payloads**  
-- Explore **penetration testing** and **bug bounty hunting**
+🚀 16 y/o developer | Passionate about **Web Security** & **Python**
 
 ---
 
-### 📫 Get in touch  
-[![Email](https://img.shields.io/badge/Email-%40your.email-blue?style=flat&logo=gmail)](mailto:info[at]Abartarah[dat]ir)  
-[![GitHub](https://img.shields.io/badge/GitHub-@TahaHatami-black?style=flat&logo=github)](https://github.com/TahaHatami)
+### 🔥 What I Do  
+- Crafting tools for **SVG XSS testing**  
+- Diving deep into **Penetration Testing** & **Bug Bounty**
+
+---
+
+### 📬 Connect with me  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@abartarah.ir)  
+[![GitHub](https://img.shields.io/badge/GitHub-@TahaHatami-181717?style=flat&logo=github)](https://github.com/TahaHatami)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 
 ---
 
 ### 📊 GitHub Stats  
-![TahaHatami's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 
-⭐️ If you like my projects, consider giving a star!  
+⭐ If you find my work helpful, feel free to ⭐️ the repos!
