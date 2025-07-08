@@ -1,12 +1,12 @@
-# 🛑 Hey 👋, I'm **Mohammad Taha Hatami** 🛑
+# Hey 👋, I'm Mohammad Taha Hatami 
 
 🚀 16 y/o developer | Passionate about **Web Security** & **Python**
 
 ---
 
 ### 🔥 What I Do  
-- Crafting tools for **SVG XSS testing** 🕷️  
-- Diving deep into **Penetration Testing** & **Bug Bounty** 💣
+- Crafting tools for **SVG XSS testing**  
+- Diving deep into **Penetration Testing** & **Bug Bounty**
 
 ---
 
@@ -29,4 +29,5 @@
 
 ---
 
-🔗 [Check my GitHub repos!](https://github.com/TahaHatami/)
+### 🚀 Check my live GitHub stats page:  
+[https://abartarah.ir/github/](https://abartarah.ir/github/)
