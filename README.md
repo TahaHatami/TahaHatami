@@ -1,12 +1,12 @@
-# Hey 👋, I'm Mohammad Taha Hatami <p align="center"> <img src="/Hacker.png" alt="TahaHatami Hacker" width="150" /> </p>
+# 🛑 Hey 👋, I'm **Mohammad Taha Hatami** 🛑
 
 🚀 16 y/o developer | Passionate about **Web Security** & **Python**
 
 ---
 
 ### 🔥 What I Do  
-- Crafting tools for **SVG XSS testing**  
-- Diving deep into **Penetration Testing** & **Bug Bounty**
+- Crafting tools for **SVG XSS testing** 🕷️  
+- Diving deep into **Penetration Testing** & **Bug Bounty** 💣
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats & Languages  
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=tokyonight&card_width=320) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&hide_border=true&theme=tokyonight&card_width=320) |  
+| ![Stats](https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=radical&card_width=320) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHatami&layout=compact&hide_border=true&theme=radical&card_width=320) |  
 |---|---|
 
 ---
@@ -29,3 +29,4 @@
 
 ---
 
+🔗 [Check my GitHub repos!](https://github.com/TahaHatami/)
