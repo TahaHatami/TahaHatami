@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SRC.png" alt="Profile Image" width="250" style="border-radius: 20px;" />
+  <img src="SRC.png" alt="Profile Image" style="width: 100%; max-width: 600px; border-radius: 30px;" />
 </p>
 
 # Hey 👋, I'm Mohammad Taha Hatami 
