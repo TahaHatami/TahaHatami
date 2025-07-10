@@ -24,12 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaHatami&show_icons=true&hide_border=true&theme=blueberry&card_width=500" />
-</p>
-
 > 🎯 Check out my **Live Terminal-Style Preview** on [abartarah.ir/github](https://abartarah.ir/github)
 
 ---
