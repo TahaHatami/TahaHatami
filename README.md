@@ -24,6 +24,10 @@
   <a href="https://abartarah.ir"><img src="https://img.shields.io/badge/Website-Abartarah.ir-black?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </p>
 
+<h3 align="center">
+  پروژه‌های این گیت‌هاب برای <strong>تست نفوذ وب</strong>، <strong>هک کاربردی</strong> و <strong>کارگاه‌های آموزشی جرایم سایبری</strong> طراحی شده‌اند.
+</h3>
+
 ---
 
 > 🎯 Check out my **Live Terminal-Style Preview** on [abartarah.ir/github](https://abartarah.ir/github)
