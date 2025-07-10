@@ -8,6 +8,8 @@
 
 🚀 **16 y/o Developer** | Passionate about **Web Security**, **Python**, and **Creative Automation with AI**
 
+🛡️ I work on both **Offensive** and **Defensive** sides of cybersecurity — from exploiting vulnerabilities to securing systems.
+
 👨‍💻 Founder of [Abartarah.ir](https://abartarah.ir) – Tools, Experiments & Web Madness 😈
 
 ---
